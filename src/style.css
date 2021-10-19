@@ -1,0 +1,58 @@
+#container {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    max-width: 19rem;
+    max-height: 19rem;
+    background-color: rgba(15, 18, 18, 9%);
+    border-radius: 11px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#chirpContainer {
+    /* display: none; */
+    flex-direction: column;
+    position: relative;
+    left: 50rem;
+    bottom: 12.5rem;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    max-width: 19rem;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+/* #chirpBox {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    max-width: 19rem;
+    max-height: 19rem;
+    background-color: rgba(15, 18, 18, 9%);
+    border-radius: 11px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#chirpUsername {
+    border-bottom: 1px solid;
+    background: transparent;
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+#chirpText {
+    margin-left: 20px;
+}
+
+.input-group {
+    max-width: 18rem;
+    display: flex; 
+} */
